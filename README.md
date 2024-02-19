@@ -11,7 +11,7 @@ Manages and analyzes chat logs for Twitch VODs to find interesting timestamps.
 - Exclude known bots and command messages from results
 - Suggest terms for presets using existing VOD logs
 - Generate per-VOD graphs of interesting metrics
-- Base support for custom per-channel filters (user-writen code)
+- Base support for custom per-channel filters (user-written code)
 ## Requirements
 - Python 3.11 or higher
 - [requests](https://pypi.org/project/requests/), [chat_downloader](https://pypi.org/project/chat-downloader/), [discord_webhook](https://pypi.org/project/discord-webhook/)
